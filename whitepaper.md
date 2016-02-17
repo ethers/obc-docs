@@ -23,7 +23,7 @@ As the shared ledger concept gains tracking in the business world, blockchain’
 
 Bitcoin and other cryptocurrencies were designed to resist any censorship, anyone can participate without establishing an identity first, one only has to contribute by spending computation cycles. There is no central authority that controls admission. Such networks have been called permissionless. Through their nature of requiring enormous proof-of-work computations, they are costly to operate [N09].
 
-Open Blockchain uses a slightly different model and introduces a notion of identiy and controls the admission of participating nodes at its core. In other words, it is a permissioned shared ledger. Compared to permissioned ledgers, this approach wastes less computation cycles, scales much better, and responds to many requirements arising in industrial uses, such as strong identity, auditability, and privacy.
+Open Blockchain uses a slightly different model and introduces a notion of identity and controls the admission of participating nodes at its core. In other words, it is a permissioned shared ledger. Compared to permissionless ledgers, this approach wastes less computation cycles, scales much better, and responds to many requirements arising in industrial uses, such as strong identity, auditability, and privacy.
 
 Entering 2016, blockchain awareness has now reached the point that the demand for a solution suitable for industry is surging.
 
